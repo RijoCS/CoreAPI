@@ -18,7 +18,6 @@ namespace CoreAPI
 		public Startup(IConfiguration configuration)
 		{
 			Configuration = configuration;
-			//hi
 		}
 
 		public IConfiguration Configuration { get; }
